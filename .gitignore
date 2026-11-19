@@ -1,0 +1,8 @@
+# Build output
+/loudmax-ladspa.lv2/
+/test/test_host
+*.o
+*.so
+
+# Proprietary LoudMax files must never be committed
+la_LoudMax*.so
